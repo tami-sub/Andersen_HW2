@@ -10,3 +10,4 @@ rootProject.name = "Andersen_HW2"
 include ':Hello_Toast_1_2'
 include ':hello_constraint_homework_1_2'
 include ':scrolling_text_1_3'
+include ':scrolling_text_homework_1_3'
